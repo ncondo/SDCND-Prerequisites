@@ -47,7 +47,7 @@ Intermediate C++ (Memory Allocation, References, Classes)
 Basic Linear Algebra (Matrix Multiplication)
 Basic Calculus (Derivatives, Integrals)
 Basic Statistics (Mean, Standard Deviation, Probability, Distributions)
-Basic Physics (Velocity, Torque, Forces)"
+Basic Physics (Velocity, Torque, Forces)."
 - David Silver, Self-Driving Car Lead (Udacity)
 
 ## How to use it
@@ -176,7 +176,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [How to build a robot that "sees" with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 - [ ] [Learning a Driving Simulator](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
 - [ ] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
-- [ ] [Using Artificial Intelligence to create a low cost self-driving car](http://budiste...0particle.pdf)
+- [ ] [Using Artificial Intelligence to create a low cost self-driving car](http://budisteanu.net/Download/ISEF%202%20Autonomous%20car%20Doc%20particle.pdf)
 - [ ] [Classification, Detection and Counting of Cars with Deep Learning](http://arxiv.org/pdf/1609.04453v1.pdf)
 - [ ] [3D Urban Scene Understanding](http://www.cvlibs.net/projects/intersection/)
 - [ ] [Introduction to TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
