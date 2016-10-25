@@ -62,15 +62,15 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Python
 
-    - [ ] [Udadity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-    - [ ] [edX & Microsoft Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
-    - [ ] [Coursera Python For Everybody](https://www.coursera.org/learn/python)
+    - [ ] [Udadity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
+    - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] SoloLearn Learn Python - Play Store or App Store (for learning on the go)
 
 - ### C++
 
-    - [ ] [edX & Microsoft Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
-    - [ ] [MIT Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+    - [ ] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
+    - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
     - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
     - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
     - [ ] SoloLearn Learn C++ - Play Store or App Store (for learning on the go)
@@ -79,13 +79,13 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Linear Algebra
 
-    - [ ] [Udacity Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 - ### Calculus
 
-    - [ ] [MIT Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+    - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [ ] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
     - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
@@ -93,10 +93,42 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Statistics
 
-    - [ ] [Udacity Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-    - [ ] [Udacity Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-    - [ ] [Udacity Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
+
+## Deep Learning
+
+- ### Machine Learning
+
+    - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
+    - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+- ### Neural Networks
+
+    - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+    - [ ] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+    - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
+    - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
+    - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
+    - [ ] [Neural Networks and Deep Learning Book (free online)](http://neuralnetworksanddeeplearning.com/index.html)
+    - [ ] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
+
+- ### Artificial Intelligence
+
+    - [ ] [Udacity - Intro to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+    - [ ] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+
+- ### Computer Vision
+
+    - [ ] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+
+- ### Robotics
+
+    - [ ] [Coursera - Robotics Specialization](https://www.coursera.org/specializations/robotics)
+
 
 
 
