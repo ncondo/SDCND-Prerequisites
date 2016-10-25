@@ -53,9 +53,9 @@ the important thing is that students have sufficient knowledge of the topics men
 >
 >Basic Statistics (Mean, Standard Deviation, Probability, Distributions)
 > 
->Basic Physics (Velocity, Torque, Forces).
+>Basic Physics (Velocity, Torque, Forces)
 >
-> - David Silver, Self-Driving Car Lead (Udacity)
+> -- David Silver, Self-Driving Car Lead (Udacity)
 
 ## How to use it
 
