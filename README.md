@@ -14,21 +14,21 @@ This is a compilation of the recommended prerequisites and resources for student
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Programming Languages](#programming-languages)
-    - [Python](#python)
-    - [C++](#c++)
+  - [Python](#python)
+  - [C++](#c++)
 - [Mathematics](#mathematics)
-    - [Linear Algebra](#linear-algebra)
-    - [Calculus](#calculus)
-    - [Statistics](#statistics)
+  - [Linear Algebra](#linear-algebra)
+  - [Calculus](#calculus)
+  - [Statistics](#statistics)
 - [Deep Learning](#deep-learning)
-    - [Machine Learning](#machine-learning)
-    - [Neural Networks](#neural-networks)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Computer Vision](#computer-vision)
-    - [Robotics](#robotics)
+  - [Machine Learning](#machine-learning)
+  - [Neural Networks](#neural-networks)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Computer Vision](#computer-vision)
+  - [Robotics](#robotics)
 - [Frameworks](#frameworks)
-    - [OpenCV](#open-cv)
-    - [TensorFlow](#tensor-flow)
+  - [OpenCV](#open-cv)
+  - [TensorFlow](#tensor-flow)
 - [Physics](#physics)
 - [More](#more)
 
@@ -72,8 +72,5 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
     - [ ] SoloLearn Learn C++ - Play Store or App Store (for learning on the go)
 
-- ### Arrays
-    - Implement an automatically resizing vector.
-    - [ ] Description:
 
 
