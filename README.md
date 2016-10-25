@@ -153,7 +153,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [ ] [Machine Learning Tutorials (list)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ ] [Bay Area Deep Learning School Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0)
-- [ ] [UC Berkeley CS188 Intro to AI (Lecture 9 - Reinforcement Learning)](https://www.youtube.com/watch?v=aTclQWMPmJY)
+- [ ] [UC Berkeley CS188 Intro to AI (Lecture 9 - Reinforcement Learning)](https://youtu.be/6pBvbLyn6fE?list=PLNozK-HB4MXsVAN6cqkCAO09RChbIAk5i)
 - [ ] [Deep Learning Datasets (for public download)](http://deeplearning.net/datasets/)
 - [ ] [Benchmarking (classifier performance)](http://yann.lecun.com/exdb/mnist/)
 - [ ] [On using LibPointMatcher (http://libpointmatcher.readthedocs.io/en/latest/ApplicationsAndPub/) to map dynamic environments with LIDAR](https://www.youtube.com/watch?v=cMgLyLpnsoU)
