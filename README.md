@@ -41,13 +41,20 @@ This is a compilation of the recommended prerequisites and resources for student
 This list was put together by instructors, mentors, and members of the SDCND slack channel to prepare incoming students for the SDCND program. The recommended resources are not manditory, 
 the important thing is that students have sufficient knowledge of the topics mentioned.
 
-> In a perfect world, incoming students would have: 
->Intermediate Python (Numpy, Classes) 
->Intermediate C++ (Memory Allocation, References, Classes) 
->Basic Linear Algebra (Matrix Multiplication) 
->Basic Calculus (Derivatives, Integrals) 
->Basic Statistics (Mean, Standard Deviation, Probability, Distributions) 
+> In a perfect world, incoming students would have:
+>
+>Intermediate Python (Numpy, Classes)
+>
+>Intermediate C++ (Memory Allocation, References, Classes)
+> 
+>Basic Linear Algebra (Matrix Multiplication)
+> 
+>Basic Calculus (Derivatives, Integrals)
+>
+>Basic Statistics (Mean, Standard Deviation, Probability, Distributions)
+> 
 >Basic Physics (Velocity, Torque, Forces).
+>
 > - David Silver, Self-Driving Car Lead (Udacity)
 
 ## How to use it
