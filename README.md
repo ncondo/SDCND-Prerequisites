@@ -55,7 +55,7 @@ the important thing is that students have sufficient knowledge of the topics men
 > 
 >Basic Physics (Velocity, Torque, Forces)
 >
-> --- David Silver, Self-Driving Car Lead (Udacity)
+> -- David Silver, Self-Driving Car Lead (Udacity)
 
 ## How to use it
 
