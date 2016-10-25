@@ -72,6 +72,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### C++
 
+- [ ] Adequate C++ Knowledge
     - [ ] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
     - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
@@ -82,12 +83,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Linear Algebra
 
+- [ ] Adequate Linear Algebra Knowledge
     - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 - ### Calculus
 
+- [ ] Adequate Calculus Knowledge
     - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [ ] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
     - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
@@ -96,6 +99,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Statistics
 
+- [ ] Adequate Statistics Knowledge
     - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
     - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
     - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
@@ -105,12 +109,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Machine Learning
 
+- [ ] Adequate Machine Learning Knowledge
     - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
     - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - ### Neural Networks
 
+- [ ] Adequate Neural Networks Knowledge
     - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
     - [ ] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
@@ -121,33 +127,39 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Artificial Intelligence
 
+- [ ] Adequate Artificial Intelligence Knowledge
     - [ ] [Udacity - Intro to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
     - [ ] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 - ### Computer Vision
 
+- [ ] Adequate Computer Vision Knowledge
     - [ ] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 - ### Robotics
 
+- [ ] Adequate Robotics Knowledge
     - [ ] [Coursera - Robotics Specialization](https://www.coursera.org/specializations/robotics)
 
 ## Frameworks
 
 - ### OpenCV
 
+- [ ] Adequate OpenCV Knowledge
     - [ ] [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&app=desktop)
 
 - ### TensorFlow
 
+- [ ] Adequate TensorFlow Knowledge
     - [ ] [TensorFlow in a Nutshell](http://camron.xyz/index.php/2016/08/22/in_a_nutshell_part_one/)
     - [ ] [Google Developers - Machine Learning Recipes by TensorFlow](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ## Physics
 
-- [ ] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
-- [ ] [Khan Academy - Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
-- [ ] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
+- [ ] Adequate Physics Knowledge
+    - [ ] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
+    - [ ] [Khan Academy - Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
+    - [ ] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
 
 ## More
 
