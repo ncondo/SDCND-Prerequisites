@@ -129,6 +129,62 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     - [ ] [Coursera - Robotics Specialization](https://www.coursera.org/specializations/robotics)
 
+## Frameworks
 
+- ### OpenCV
 
+    - [ ] [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&app=desktop)
 
+- ### TensorFlow
+
+    - [ ] [TensorFlow in a Nutshell](http://camron.xyz/index.php/2016/08/22/in_a_nutshell_part_one/)
+    - [ ] [Google Developers - Machine Learning Recipes by TensorFlow](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+
+## Physics
+
+- [ ] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
+- [ ] [Khan Academy - Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
+- [ ] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
+
+## More
+
+- [ ] [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [ ] [Machine Learning Tutorials (list)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [ ] [Bay Area Deep Learning School Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0)
+- [ ] [UC Berkeley CS188 Intro to AI (Lecture 9 - Reinforcement Learning)](https://www.youtube.com/watch?v=aTclQWMPmJY)
+- [ ] [Deep Learning Datasets (for public download)](http://deeplearning.net/datasets/)
+- [ ] [Benchmarking (classifier performance)](http://yann.lecun.com/exdb/mnist/)
+- [ ] [On using LibPointMatcher (http://libpointmatcher.readthedocs.io/en/latest/ApplicationsAndPub/) to map dynamic environments with LIDAR](https://www.youtube.com/watch?v=cMgLyLpnsoU)
+- [ ] [Reddit for Self-Driving Cars](https://www.reddit.com/r/selfdrivingcars)
+- [ ] [Reddit discussion on advanced ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+- [ ] [DeepBench by BaiduResearch benchmarks hardware performance](https://github.com/baidu-research/DeepBench)
+- [ ] [Federal Automated Vehicles Announcement and Policy](https://www.transportation.gov/AV)
+- [ ] [Browse arXiv for research papers](https://arxiv.org/) 
+- [ ] [Browse GitXiv for papers and code](http://www.gitxiv.com/)
+- [ ] [Github TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
+- [ ] [Comma.ai Steering Angle Model](https://github.com/commaai/research/blob/master/SelfSteering.md)
+- [ ] [Keras Tutorial using word embeddings](https://blog.keras.io/category/tutorials.html)
+- [ ] [Installing Docker and TensorFlow](https://petewarden.com/2016/02/28/tensorflow-for-poets/)
+- [ ] [Another example of installing Docker and TensorFlow](http://www.netinstructions.com/how-to-install-and-run-tensorflow-on-a-windows-pc/)
+- [ ] [Setting up GPU on AWS](http://cs231n.github.io/aws-tutorial/)
+- [ ] [Blog post on running TensorFlow with Jupyter Notebook on AWS](http://navoshta.com/aws-tensorflow/)
+- [ ] [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow (written by DL4J)](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html#dl4j-vs-torch-vs-theano-vs-caffe-vs-tensorflow)
+- [ ] [Write an AI to win at Pong using reinforcement learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.oke1hwz6m)
+- [ ] [Implement VGG in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/)
+- [ ] [How to build a robot that "sees" with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
+- [ ] [Learning a Driving Simulator](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
+- [ ] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+- [ ] [Using Artificial Intelligence to create a low cost self-driving car](http://budiste...0particle.pdf)
+- [ ] [Classification, Detection and Counting of Cars with Deep Learning](http://arxiv.org/pdf/1609.04453v1.pdf)
+- [ ] [3D Urban Scene Understanding](http://www.cvlibs.net/projects/intersection/)
+- [ ] [Introduction to TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+- [ ] [Video Prediction and Unsupervised Learning](https://arxiv.org/pdf/1605.08104v4.pdf)
+- [ ] [Very Deep Convolutional Networks](http://arxiv.org/pdf/1409.1556)
+- [ ] [Deep Learning Overview](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [ ] [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
+- [ ] [Multilevel Residual Networks](https://arxiv.org/pdf/1608.02908v1.pdf)
+- [ ] [Inception-v4, Inception-ResNet](https://arxiv.org/pdf/1602.07261v2.pdf)
+- [ ] [Oxford Visual Geometry Group (VGG)](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
+- [ ] [How to build an autonomous vehicle](https://www.youtube.com/watch?v=Ywh0votSJxk)
+- [ ] [How Convolutional Networks Work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+- [ ] [Autoware provides open-source code](https://github.com/CPFL/Autoware)
