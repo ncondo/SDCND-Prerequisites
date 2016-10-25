@@ -75,5 +75,28 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
     - [ ] SoloLearn Learn C++ - Play Store or App Store (for learning on the go)
 
+## Mathematics
+
+- ### Linear Algebra
+
+    - [ ] [Udacity Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+    - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+- ### Calculus
+
+    - [ ] [MIT Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+    - [ ] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+    - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+    - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
+
+- ### Statistics
+
+    - [ ] [Udacity Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [ ] [Udacity Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    - [ ] [Udacity Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
+
 
 
