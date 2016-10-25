@@ -60,17 +60,17 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## Programming Languages
 
-### Python
-    - [ ] [Udadity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-    - [ ] [edX & Microsoft Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
-    - [ ] [Coursera Python For Everybody](https://www.coursera.org/learn/python)
-    - [ ] SoloLearn Learn Python - Play Store or App Store (for learning on the go)
-### C++
-    - [ ] [edX & Microsoft Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
-    - [ ] [MIT Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
-    - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
-    - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-    - [ ] SoloLearn Learn C++ - Play Store or App Store (for learning on the go)
+- ### Python
+  - [ ] [Udadity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+  - [ ] [edX & Microsoft Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
+  - [ ] [Coursera Python For Everybody](https://www.coursera.org/learn/python)
+  - [ ] SoloLearn Learn Python - Play Store or App Store (for learning on the go)
+* ### C++
+  - [ ] [edX & Microsoft Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
+  - [ ] [MIT Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+  - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
+  - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+  - [ ] SoloLearn Learn C++ - Play Store or App Store (for learning on the go)
 
 
 
