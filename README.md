@@ -14,8 +14,8 @@ This is a compilation of the recommended prerequisites and resources for student
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Programming Languages](#programming-languages)
-  - [Python](#python)
-  - [C++](#c++)
+    - [Python](#python)
+    - [C++](#c++)
 - [Mathematics](#mathematics)
   - [Linear Algebra](#linear-algebra)
   - [Calculus](#calculus)
@@ -66,7 +66,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [edX & Microsoft Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] SoloLearn Learn Python - Play Store or App Store (for learning on the go)
-    
+
 - ### C++
 
     - [ ] [edX & Microsoft Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
