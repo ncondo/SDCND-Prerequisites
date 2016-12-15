@@ -17,7 +17,7 @@ This is a compilation of the recommended prerequisites and resources for student
 - [How to use it](#how-to-use-it)
 - [Programming Languages](#programming-languages)
     - [Python](#python)
-    - [C++](#c++)
+    - [C++](#C++)
 - [Mathematics](#mathematics)
     - [Linear Algebra](#linear-algebra)
     - [Calculus](#calculus)
