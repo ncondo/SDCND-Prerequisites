@@ -208,5 +208,5 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Inception-v4, Inception-ResNet](https://arxiv.org/pdf/1602.07261v2.pdf)
 - [ ] [Oxford Visual Geometry Group (VGG)](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
 - [x] [How to build an autonomous vehicle](https://www.youtube.com/watch?v=Ywh0votSJxk)
-- [ ] [How Convolutional Networks Work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+- [x] [How Convolutional Networks Work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [ ] [Autoware provides open-source code](https://github.com/CPFL/Autoware)
