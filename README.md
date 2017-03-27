@@ -71,7 +71,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Python
 
-- [ ] Adequate Python Knowledge
+- [x] Adequate Python Knowledge
     - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
@@ -82,8 +82,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] Adequate C++ Knowledge
     - [x] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
-    - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
-    - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+    - [x] [Google's C++ Class](https://developers.google.com/edu/c++/)
+    - [x] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
     - [ ] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
 
 ## Mathematics
@@ -100,9 +100,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] Adequate Calculus Knowledge
     - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [x] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
-    - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-    - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-    - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
+    - [x] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+    - [x] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    - [x] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
 
 - ### Statistics
 
@@ -130,18 +130,18 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
     - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
     - [ ] [Neural Networks and Deep Learning Book (free online)](http://neuralnetworksanddeeplearning.com/index.html)
-    - [ ] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
+    - [x] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
 
 - ### Artificial Intelligence
 
-- [ ] Adequate Artificial Intelligence Knowledge
+- [x] Adequate Artificial Intelligence Knowledge
     - [x] [Udacity - Intro to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-    - [ ] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+    - [x] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 - ### Computer Vision
 
 - [ ] Adequate Computer Vision Knowledge
-    - [ ] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+    - [x] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 - ### Robotics
 
@@ -184,18 +184,18 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Browse arXiv for research papers](https://arxiv.org/) 
 - [ ] [Browse GitXiv for papers and code](http://www.gitxiv.com/)
 - [ ] [Github TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
-- [ ] [Comma.ai Steering Angle Model](https://github.com/commaai/research/blob/master/SelfSteering.md)
+- [x] [Comma.ai Steering Angle Model](https://github.com/commaai/research/blob/master/SelfSteering.md)
 - [ ] [Keras Tutorial using word embeddings](https://blog.keras.io/category/tutorials.html)
 - [ ] [Installing Docker and TensorFlow](https://petewarden.com/2016/02/28/tensorflow-for-poets/)
 - [ ] [Another example of installing Docker and TensorFlow](http://www.netinstructions.com/how-to-install-and-run-tensorflow-on-a-windows-pc/)
-- [ ] [Setting up GPU on AWS](http://cs231n.github.io/aws-tutorial/)
+- [x] [Setting up GPU on AWS](http://cs231n.github.io/aws-tutorial/)
 - [ ] [Blog post on running TensorFlow with Jupyter Notebook on AWS](http://navoshta.com/aws-tensorflow/)
 - [ ] [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow (written by DL4J)](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html#dl4j-vs-torch-vs-theano-vs-caffe-vs-tensorflow)
 - [ ] [Write an AI to win at Pong using reinforcement learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.oke1hwz6m)
 - [ ] [Implement VGG in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/)
 - [ ] [How to build a robot that "sees" with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 - [ ] [Learning a Driving Simulator](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
-- [ ] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+- [x] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 - [ ] [Using Artificial Intelligence to create a low cost self-driving car](http://budisteanu.net/Download/ISEF%202%20Autonomous%20car%20Doc%20particle.pdf)
 - [ ] [Classification, Detection and Counting of Cars with Deep Learning](http://arxiv.org/pdf/1609.04453v1.pdf)
 - [ ] [3D Urban Scene Understanding](http://www.cvlibs.net/projects/intersection/)
