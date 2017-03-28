@@ -79,25 +79,25 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### C++
 
-- [ ] Adequate C++ Knowledge
+- [x] Adequate C++ Knowledge
     - [x] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
     - [x] [Google's C++ Class](https://developers.google.com/edu/c++/)
     - [x] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-    - [ ] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
+    - [x] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
 
 ## Mathematics
 
 - ### Linear Algebra
 
-- [ ] Adequate Linear Algebra Knowledge
-    - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [x] Adequate Linear Algebra Knowledge
+    - [x] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [x] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 - ### Calculus
 
-- [ ] Adequate Calculus Knowledge
+- [x] Adequate Calculus Knowledge
     - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [x] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
     - [x] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
