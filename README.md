@@ -71,7 +71,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Python
 
-- [x] Adequate Python Knowledge
+- [ ] Adequate Python Knowledge
     - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
@@ -79,30 +79,30 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### C++
 
-- [x] Adequate C++ Knowledge
-    - [x] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
+- [ ] Adequate C++ Knowledge
+    - [ ] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
-    - [x] [Google's C++ Class](https://developers.google.com/edu/c++/)
-    - [x] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-    - [x] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
+    - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
+    - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+    - [ ] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
 
 ## Mathematics
 
 - ### Linear Algebra
 
-- [x] Adequate Linear Algebra Knowledge
-    - [x] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
-    - [x] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] Adequate Linear Algebra Knowledge
+    - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 - ### Calculus
 
-- [x] Adequate Calculus Knowledge
+- [ ] Adequate Calculus Knowledge
     - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-    - [x] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
-    - [x] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-    - [x] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-    - [x] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
+    - [ ] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+    - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+    - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
 
 - ### Statistics
 
@@ -110,38 +110,38 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
     - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
     - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-    - [x] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
+    - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Deep Learning
 
 - ### Machine Learning
 
 - [ ] Adequate Machine Learning Knowledge
-    - [x] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
-    - [x] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
+    - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - ### Neural Networks
 
 - [ ] Adequate Neural Networks Knowledge
-    - [x] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-    - [x] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+    - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+    - [ ] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
     - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
     - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
     - [ ] [Neural Networks and Deep Learning Book (free online)](http://neuralnetworksanddeeplearning.com/index.html)
-    - [x] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
+    - [ ] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
 
 - ### Artificial Intelligence
 
-- [x] Adequate Artificial Intelligence Knowledge
-    - [x] [Udacity - Intro to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-    - [x] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [ ] Adequate Artificial Intelligence Knowledge
+    - [ ] [Udacity - Intro to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+    - [ ] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 - ### Computer Vision
 
 - [ ] Adequate Computer Vision Knowledge
-    - [x] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+    - [ ] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 - ### Robotics
 
@@ -170,32 +170,32 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## More
 
-- [x] [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [ ] [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [ ] [Machine Learning Tutorials (list)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ ] [Bay Area Deep Learning School Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0)
-- [x] [UC Berkeley CS188 Intro to AI lecture (Reinforcement Learning)](https://youtu.be/w33Lplx49_A)
+- [ ] [UC Berkeley CS188 Intro to AI lecture (Reinforcement Learning)](https://youtu.be/w33Lplx49_A)
 - [ ] [Deep Learning Datasets (for public download)](http://deeplearning.net/datasets/)
 - [ ] [Benchmarking (classifier performance)](http://yann.lecun.com/exdb/mnist/)
 - [ ] [On using LibPointMatcher (http://libpointmatcher.readthedocs.io/en/latest/ApplicationsAndPub/) to map dynamic environments with LIDAR](https://www.youtube.com/watch?v=cMgLyLpnsoU)
-- [x] [Reddit for Self-Driving Cars](https://www.reddit.com/r/selfdrivingcars)
-- [x] [Reddit discussion on advanced ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+- [ ] [Reddit for Self-Driving Cars](https://www.reddit.com/r/selfdrivingcars)
+- [ ] [Reddit discussion on advanced ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
 - [ ] [DeepBench by BaiduResearch benchmarks hardware performance](https://github.com/baidu-research/DeepBench)
 - [ ] [Federal Automated Vehicles Announcement and Policy](https://www.transportation.gov/AV)
 - [ ] [Browse arXiv for research papers](https://arxiv.org/) 
 - [ ] [Browse GitXiv for papers and code](http://www.gitxiv.com/)
 - [ ] [Github TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
-- [x] [Comma.ai Steering Angle Model](https://github.com/commaai/research/blob/master/SelfSteering.md)
+- [ ] [Comma.ai Steering Angle Model](https://github.com/commaai/research/blob/master/SelfSteering.md)
 - [ ] [Keras Tutorial using word embeddings](https://blog.keras.io/category/tutorials.html)
 - [ ] [Installing Docker and TensorFlow](https://petewarden.com/2016/02/28/tensorflow-for-poets/)
 - [ ] [Another example of installing Docker and TensorFlow](http://www.netinstructions.com/how-to-install-and-run-tensorflow-on-a-windows-pc/)
-- [x] [Setting up GPU on AWS](http://cs231n.github.io/aws-tutorial/)
+- [ ] [Setting up GPU on AWS](http://cs231n.github.io/aws-tutorial/)
 - [ ] [Blog post on running TensorFlow with Jupyter Notebook on AWS](http://navoshta.com/aws-tensorflow/)
 - [ ] [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow (written by DL4J)](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html#dl4j-vs-torch-vs-theano-vs-caffe-vs-tensorflow)
 - [ ] [Write an AI to win at Pong using reinforcement learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.oke1hwz6m)
 - [ ] [Implement VGG in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/)
 - [ ] [How to build a robot that "sees" with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 - [ ] [Learning a Driving Simulator](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
-- [x] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+- [ ] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 - [ ] [Using Artificial Intelligence to create a low cost self-driving car](http://budisteanu.net/Download/ISEF%202%20Autonomous%20car%20Doc%20particle.pdf)
 - [ ] [Classification, Detection and Counting of Cars with Deep Learning](http://arxiv.org/pdf/1609.04453v1.pdf)
 - [ ] [3D Urban Scene Understanding](http://www.cvlibs.net/projects/intersection/)
@@ -207,6 +207,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Multilevel Residual Networks](https://arxiv.org/pdf/1608.02908v1.pdf)
 - [ ] [Inception-v4, Inception-ResNet](https://arxiv.org/pdf/1602.07261v2.pdf)
 - [ ] [Oxford Visual Geometry Group (VGG)](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
-- [x] [How to build an autonomous vehicle](https://www.youtube.com/watch?v=Ywh0votSJxk)
-- [x] [How Convolutional Networks Work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+- [ ] [How to build an autonomous vehicle](https://www.youtube.com/watch?v=Ywh0votSJxk)
+- [ ] [How Convolutional Networks Work](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [ ] [Autoware provides open-source code](https://github.com/CPFL/Autoware)
